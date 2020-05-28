@@ -28,11 +28,6 @@ Links
 - [Introducing PlaNet: A Deep Planning Network for Reinforcement Learning](https://ai.googleblog.com/2019/02/introducing-planet-deep-planning.html)
 - [google-research/planet](https://github.com/google-research/planet)
 
-Acknowledgements
-----------------
-
-- [@danijar](https://github.com/danijar) for [google-research/planet](https://github.com/google-research/planet) and [help reproducing results](https://github.com/google-research/planet/issues/28)
-- [@sg2](https://github.com/sg2) for [running experiments](https://github.com/Kaixhin/PlaNet/issues/9)
 
 References
 ----------
